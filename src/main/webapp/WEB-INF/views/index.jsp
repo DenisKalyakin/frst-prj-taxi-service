@@ -4,7 +4,7 @@
 </style>
 <html>
 <head>
-    <title>My team</title>
+    <title>Main page</title>
 </head>
 <body>
 ${name}:
